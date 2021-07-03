@@ -17,7 +17,7 @@ manter um histórico dos tratamentos realizados. Através dos resultados de pesq
 foram analisadas as necessidades e desejos de possíveis usuários para traçar quais funções o
 projeto deveria desempenhar. Por meio de Diagrama de Classe e Casos de Uso, além de outras
 modelagens e levantamento de dados inerentes ao processo de desenvolvimento de software
-apresentadas nesta documentação, pode-se modelar o sistema e, assim, chegar ao objetivo
+apresentadas na documentação, pode-se modelar o sistema e, assim, chegar ao objetivo
 proposto.
 
 ## About
@@ -32,4 +32,4 @@ the last products used and keeping a history of the treatments performed. Throug
 of field research, the needs and desires of possible users were analyzed in order to outline which
 functions the project should perform. Through Class Diagram and Use Cases, in addition to
 other modeling and data collection inherent to the software development process presented in
-this documentation, it is possible to model the system and, thus, reach the proposed objective.
+on the documentation, it is possible to model the system and, thus, reach the proposed objective.
