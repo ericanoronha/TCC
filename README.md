@@ -2,7 +2,7 @@
 
 Trabalho de conclusão de curso apresentado à Universidade Estácio de Sá como requisito parcial à obtenção do grau de Bacharel em Sistemas de Informação. Orientador Prof. M.Sc. Rodrigo Augusto Barros Pereira Dias.
 
-![Imagem demonstrativa do aplicativo CRONO](https://portfolio.ericanoronha.repl.co/img/mockups-telas.png)
+![Imagem demonstrativa do aplicativo CRONO](https://portfolio.ericanoronha.repl.co/img/mockups-telas.png?v=1)
 
 ## Sobre
 
